@@ -76,3 +76,4 @@ Additional Dependencies to install:
 # shopit
 # shopit
 # shopit
+# git-shopit
